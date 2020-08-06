@@ -1,1 +1,1 @@
-# Tetris
+Tetris igra napravljena za projekt iz kolegija objektno programiranje.
